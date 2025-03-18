@@ -3,7 +3,7 @@ import pandas as pd
 import requests
 
 url = "https://api.openweathermap.org/data/2.5/forecast"
-params = {"q": "Bagé", "appid":"23c492dbc5bb9b3e9ad4e6d15029b6e4", "units": "metric", "lang": "pt"}
+params = {"q": "Bagé", "appid":"", "units": "metric", "lang": "pt"}
 
 
 
